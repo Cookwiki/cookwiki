@@ -1,0 +1,61 @@
+html{scroll-behavior:smooth;}
+h2{font-family:Helvetica}
+header{
+	height:120px;
+	width:1843px;
+	background-color:#FC7D81;
+	padding: 30px;}
+body{margin:0px;}
+.menu{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 10px;}
+.elmenu{display: inline-block;
+	padding: 20px;
+	font-size: 22px;
+	background-color: #FB5155;
+	margin: 0px 25px 0px 50px;
+	font-family:Helvetica;
+	text-decoration:none;
+	color:black;}
+.zdes {background-color:#F72B2F;}
+footer{height: 100px;
+	width: 1843px;
+	background-color:#FC7D81;
+	padding: 30px;
+	vertical-align:bottom;}
+.lazaniaimg{width:550px;
+	display: inline-block;
+	margin: 10px;
+	vertical-align: top;}
+.lazania{width: 500px;
+	line-height: 25px;
+	font-size: 25px;
+	font-family:Helvetica;}
+.proz1{background-color:#F72B2F;
+	width: 1225px;
+	height:560px;
+	padding:40px;
+	margin: 0 auto;}
+main{height:1300px;
+	width:1843px;
+	background-image:url("./img/wood-texture_red.jpg");
+	padding:30px;}
+.search{
+	display: inline-block;
+	width: 250px;
+	height: 30px;
+	margin: 0px 5px 0px 50px;}
+.proz2{background-color:#F72B2F;
+	width: 1225px;
+	height:560px;
+	padding:40px;
+	margin: 0 auto;}
+.salmon_potatoimg{width:550px;
+	display: inline-block;
+	margin: 10px;
+	vertical-align: top;}
+.salmon_potato{width: 500px;
+	line-height: 25px;
+	font-size: 25px;
+	font-family:Helvetica;}

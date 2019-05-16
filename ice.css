@@ -1,0 +1,95 @@
+html{scroll-behavior:smooth;}
+body{margin: 0px}
+h2{font-family:Helvetica}
+header{
+	height:120px;
+	width:1843px;
+	background-color:#00C4FF;
+	padding: 30px;}
+main{
+	height:3050px;
+	width:1843px;
+	background-image:url("./img/wood-texture_blue.jpg");
+	padding:30px;}
+.menu {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 10px;}
+.elmenu{
+	display: inline-block;
+	padding: 20px;
+	font-size: 22px;
+	background-color:#00E6FF;
+	margin: 0px 25px 0px 50px;
+	font-family:Helvetica;
+	text-decoration:none;
+	color:black;}
+.proz2{
+	background-color:#09B0C8;
+	width: 1225px;
+	height:900px;
+	padding:40px;
+	margin: 0 auto;}
+.ice_creamimg{
+	width:500px;
+	display: inline-block;
+	margin: 10px;
+	vertical-align: top;}
+.ice_cream{
+	width: 600px;
+	line-height: 25px;
+	font-size: 25px;
+	font-family:Helvetica;}
+footer{
+	height: 100px;
+	width: 1843px;
+	background-color:#00C4FF;
+	padding: 30px;
+	vertical-align:bottom;}
+.zdes{background-color:#09B0C8;}
+
+.proz1{background-color:#09B0C8;
+	width: 1225px;
+	height:500px;
+	padding:40px;
+	margin: 0 auto;}
+.cheesecakeimg{
+	width: 500px;
+	display: inline-block;
+	margin: 10px;
+	vertical-align: top;}
+.cheesecake{width: 600px;
+	line-height: 25px;
+	font-size: 25px;
+	font-family:Helvetica;}
+.proz3{background-color:#09B0C8;
+	width: 1225px;
+	height:725px;
+	padding:40px;
+	margin: 0 auto;}
+.sharlotkaimg{width:500px;
+	display: inline-block;
+	margin: 10px;
+	vertical-align: top;}
+.sharlotka{width: 580px;
+	line-height: 25px;
+	font-size: 25px;
+	font-family:Helvetica;}
+.proz4{background-color:#09B0C8;
+	width: 1225px;
+	height:600px;
+	padding:40px;
+	margin: 0 auto;}
+.blueberrypieimg{width:500px;
+	display: inline-block;
+	margin: 10px;
+	vertical-align: top;}
+.blueberrypie{width:600px;
+	line-height: 25px;
+	font-size: 25px;
+	font-family:Helvetica;}
+.search{
+	display: inline-block;
+	width: 250px;
+	height: 30px;
+	margin: 0px 5px 0px 50px;}
