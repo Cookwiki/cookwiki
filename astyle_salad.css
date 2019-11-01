@@ -5,7 +5,7 @@ header{
 	width:1843px;
 	background-color:#2ADA10;
 	padding: 30px;}
-body{margin:0px;}
+body{margin:0px;overflow-x:hidden;}
 .menu{
 	display: inline-block;
 	vertical-align: top;
@@ -24,14 +24,10 @@ footer{height: 100px;
 	background-color:#2ADA10;
 	padding: 30px;
 	vertical-align:bottom;}
-main{height:1000px;
+main{height:1800px;
 	width:1843px;
 	background-image:url("./img/wood-texture_green.jpg");
 	padding:30px;}
-.search{display: inline-block;
-	width: 250px;
-	height: 30px;
-	margin: 0px 5px 0px 50px;}
 .proz1{background-color:#28AD14;
 	width: 1225px;
 	height:800px;
@@ -42,6 +38,21 @@ main{height:1000px;
 	margin: 10px;
 	vertical-align: top;}
 .cesar_chicken{width: 500px;
+	line-height: 25px;
+	font-size: 25px;
+	font-family:Helvetica;}
+.top{width:50px;
+	height: 50px;}
+.proz2{background-color:#28AD14;
+	width: 1225px;
+	height:800px;
+	padding:40px;
+	margin: 0 auto;}
+.squidimg{width:550px;
+	display: inline-block;
+	margin: 10px;
+	vertical-align: top;}
+.salad_squid{width: 500px;
 	line-height: 25px;
 	font-size: 25px;
 	font-family:Helvetica;}

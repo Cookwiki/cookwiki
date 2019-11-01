@@ -1,3 +1,4 @@
+html{scroll-behavior:smooth;}
 .h2{font-family:Helvetica}
 header{height:120px;
 	width:1843px;
@@ -25,16 +26,12 @@ main{height:550px;
 	text-decoration:none;
 	color:black;}
 .zdes {background-color:#ECBD13;}
-.search{display: inline-block;
-	width: 250px;
-	height: 30px;
-	margin: 0px 5px 0px 50px;}
 footer{height: 100px;
 	width: 1843px;
 	background-color:#FFDB45;
 	padding: 30px;
 	vertical-align:bottom;}
-body {margin: 0px;}
+body {margin: 0px;overflow-x:hidden;}
 .proz{background-color:#ECBD13;
 	width: 1225px;
 	height:350px;
@@ -44,4 +41,5 @@ body {margin: 0px;}
 	line-height: 32px;
 	font-size: 25px;
 	font-family:Helvetica;}
-
+.top{width:50px;
+	height: 50px;}
